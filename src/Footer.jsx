@@ -96,7 +96,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-6">
               <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                <span className="text-2xl font-bold">LL</span>
+                <span className="text-2xl font-bold">MG</span>
               </div>
               <span className="ml-3 text-2xl font-bold">META GAME TECHNOLOGY JOINT STOCK COMPANY</span>
             </div>
