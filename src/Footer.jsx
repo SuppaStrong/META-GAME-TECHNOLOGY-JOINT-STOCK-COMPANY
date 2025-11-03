@@ -98,7 +98,7 @@ const Footer = () => {
               <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
                 <span className="text-2xl font-bold">LL</span>
               </div>
-              <span className="ml-3 text-2xl font-bold">Logic Labs</span>
+              <span className="ml-3 text-2xl font-bold">META GAME TECHNOLOGY JOINT STOCK COMPANY</span>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Creating immersive gaming experiences since 2008. We transform ideas into reality with cutting-edge technology and creative excellence.
@@ -108,15 +108,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-gray-400">
                 <FaMapMarkerAlt className="text-purple-400" />
-                <span>123 Gaming Street, Tech City, TC 12345</span>
+                <span>BT12-16, An Hung Urban Area, La Khe Ward, Ha Dong District, Hanoi City, Vietnam</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <FaPhone className="text-purple-400" />
-                <span>+1 (555) 123-4567</span>
+                <span>+84983805469</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <FaEnvelope className="text-purple-400" />
-                <span>info@logiclabs.com</span>
+                <span>info@metagamefans.com</span>
               </div>
             </div>
           </div>
@@ -175,7 +175,7 @@ const Footer = () => {
         <div className="border-t border-white/10 pt-8 pb-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-gray-400 text-sm">
-              © 2024 Logic Labs Limited. All rights reserved.
+              © 2024 META GAME TECHNOLOGY JOINT STOCK COMPANY Limited. All rights reserved.
             </p>
 
             <div className="flex gap-4">

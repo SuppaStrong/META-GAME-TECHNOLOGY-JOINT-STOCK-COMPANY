@@ -39,7 +39,7 @@ const Navbar = () => {
             <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
               <span className="text-2xl font-bold">LL</span>
             </div>
-            <span className="ml-3 text-xl font-bold">Logic Labs</span>
+            <span className="ml-3 text-xl font-bold">META GAME TECHNOLOGY JOINT STOCK COMPANY</span>
           </motion.div>
 
           {/* Desktop Menu */}

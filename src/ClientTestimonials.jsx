@@ -8,7 +8,7 @@ const Testimonials = () => {
       role: 'CEO, GameCorp',
       image: 'https://i.pravatar.cc/150?img=12',
       rating: 5,
-      text: 'Logic Labs transformed our vision into an incredible gaming experience. Their attention to detail and technical expertise is unmatched.',
+      text: 'META GAME TECHNOLOGY JOINT STOCK COMPANY transformed our vision into an incredible gaming experience. Their attention to detail and technical expertise is unmatched.',
       country: 'USA',
     },
     {
@@ -16,7 +16,7 @@ const Testimonials = () => {
       role: 'Product Manager, PlayTech',
       image: 'https://i.pravatar.cc/150?img=45',
       rating: 5,
-      text: 'Working with Logic Labs was seamless. They delivered beyond expectations and maintained excellent communication throughout.',
+      text: 'Working with META GAME TECHNOLOGY JOINT STOCK COMPANY was seamless. They delivered beyond expectations and maintained excellent communication throughout.',
       country: 'Spain',
     },
     {
@@ -24,7 +24,7 @@ const Testimonials = () => {
       role: 'Founder, Dragon Games',
       image: 'https://i.pravatar.cc/150?img=33',
       rating: 5,
-      text: 'The quality of work and dedication from Logic Labs is exceptional. Our game reached 5 million downloads in just 3 months!',
+      text: 'The quality of work and dedication from META GAME TECHNOLOGY JOINT STOCK COMPANY is exceptional. Our game reached 5 million downloads in just 3 months!',
       country: 'China',
     },
   ];

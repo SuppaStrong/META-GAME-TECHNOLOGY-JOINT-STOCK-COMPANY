@@ -28,7 +28,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-cyan-500 rounded-full flex items-center justify-center">
               <span className="text-white font-bold text-xl">L</span>
             </div>
-            <span className="text-2xl font-bold glow-text">Logic Labs</span>
+            <span className="text-2xl font-bold glow-text">META GAME TECHNOLOGY JOINT STOCK COMPANY</span>
           </div>
 
           {/* Desktop Navigation */}
